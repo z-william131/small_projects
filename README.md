@@ -19,9 +19,9 @@ The tags will be the name of every subfolder's name.
 For example, The struction of folder "Hobbies" is like this:
 
 1. Sports
-  * Basketball -- Some articles about basketball
-  * Football -- Some articles about football
+  * Basketball -- Some articles about basketball
+  * Football -- Some articles about football
 2. Arts
-  * Watercolor
-  * Comic
+  * Watercolor
+  * Comic
 3. Music
