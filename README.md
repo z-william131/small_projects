@@ -25,3 +25,17 @@ For example, The struction of folder "Hobbies" is like this:
   * Watercolor
   * Comic
 3. Music
+
+And the result will be 
+
+[[1, article1, /sports/basketball/artical1, sports, basketball, None],
+
+[2, article2, /sports/football/artical2, sports, football, None],
+
+[3, article3, /Arts/watercolor/artical3, arts, watercolor, None],
+
+[4, article4, /Arts/comic/artical4, arts, comic, None], ... ]
+
+## Confusion Matrix
+
+The basic struction for machine learning
